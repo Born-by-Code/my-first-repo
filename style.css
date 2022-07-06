@@ -141,7 +141,7 @@ background-color:gainsboro ;
     text-align: center;
     padding-top: 40px;
 }
-.benefaction{
+.The-continuous{
     display: flex;
     align-items: center;
     margin-left: 5%;
@@ -152,6 +152,7 @@ background-color:gainsboro ;
     width: 60%;
     align-items: center;
     margin-bottom: 100px;
+    font-size: 18px;
 }
 .donation-p img{
     width: 100%;
